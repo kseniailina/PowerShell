@@ -1,5 +1,5 @@
 param(
-    [parameter(Mandatory=$true)] [string]$arg1,
+    [parameter(Mandatory=$true)] [string]$specflowTagsPowerWeb,
     [parameter(Mandatory=$true)] [string]$arg2,
     [parameter(Mandatory=$false)] [int]$arg3=2,
     [parameter(Mandatory=$false)] [int]$arg4=3
