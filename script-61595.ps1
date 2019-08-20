@@ -5,5 +5,5 @@ Param(
 
 Write-Host "=================================================================================="
 
-Write-Host "SpecflowTagsPowerWeb: $specflowTagsPowerWeb"
+Write-Host "SpecflowTagsPowerWeb:" $specflowTagsPowerWeb
 Write-Host "=================================================================================="
